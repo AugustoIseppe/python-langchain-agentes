@@ -1,8 +1,6 @@
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
-
 # Titulo do projeto
 
-3860 - LangChain: desenvolva agentes de inteligência artificial
+LangChain: desenvolva agentes de inteligência artificial
 
 ## 🔨 Funcionalidades do projeto
 
